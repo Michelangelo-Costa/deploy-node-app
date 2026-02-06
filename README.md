@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://kubernetes.io/images/kubernetes-horizontal-color.png" alt="Kubernetes Logo" width="400"/>
+  <img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" alt="Kubernetes Logo" width="400"/>
 </p>
 
 <h1 align="center">Deploy Node App - Kubernetes</h1>
